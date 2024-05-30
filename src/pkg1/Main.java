@@ -35,7 +35,7 @@ class Displaywindow extends JFrame implements WaterlevelObserver{
 
         setVisible(true);
        // i try my best
-        //this is feature 3 commit
+        
     }
 
 
